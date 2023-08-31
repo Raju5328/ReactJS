@@ -1,0 +1,19 @@
+.app{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.head{
+    margin: 10px;
+    width: 250px;
+    height: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    border-style: double;
+    border: 2px solid black;
+}
+
+.logo{
+    width: 200px;
+    height: 300px;
+}

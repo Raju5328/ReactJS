@@ -1,17 +1,3 @@
-//const heading = React.createElement("h1", {id:"heading"}, "Hello Welcome to React") //object
-
-
-// console.log(heading)
-// const root= ReactDOM.createRoot(document.getElementById("root"));
-
-
-// root.render(heading)
-
-
-
-
-
-
 
 
 // const heading = React.createElement("div", {class :"parent"},[
@@ -43,11 +29,11 @@
 
 
 
-{/* <div id ="style">
-   <div id="child">
-      <h1 class="heading">welcome to inner heading</h1>
-   </div>
-</div> */}
+// {/* <div id ="style">
+//    <div id="child">
+//       <h1 class="heading">welcome to inner heading</h1>
+//    </div>
+// </div> */}
 
 
 const parent = React.createElement(
